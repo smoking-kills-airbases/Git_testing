@@ -1,14 +1,4 @@
-L04PHP. git practice
+04PHP
 
-trecia eilute
-ketvirta eilute
-asasd
-asdasd
-asdasd
-adsasdasdasd
+tingiu trinti commitus
 
-
-hsdfhjkdsfhjksdfhjksdf
-gasdasdasdasdads
-
-devinta eilute
